@@ -56,11 +56,11 @@ Publish to Power BI Service or embed in internal portals.
 
 📷 Screenshots
 Home View	Action View	Details View
-![Screenshot 2025-05-28 112942](https://github.com/user-attachments/assets/967f940c-0ed1-4b66-baa6-07d46f582cee)
+![Screenshot 2025-05-28 112942](https://github.com/user-attachments/assets/1a4b227a-7307-436f-bda9-45f6f05712ea)
 
-![Screenshot 2025-05-28 113002](https://github.com/user-attachments/assets/d74d2bb0-4ee9-497d-baba-ff835ef8f1b4)
+![Screenshot 2025-05-28 113002](https://github.com/user-attachments/assets/2f989eed-72d6-43a6-acda-e6ab31eae6c8)
 
-![Screenshot 2025-05-28 113023](https://github.com/user-attachments/assets/f6a40232-10b7-49e2-9ce0-8da191bfaefd)
+![Screenshot 2025-05-28 113023](https://github.com/user-attachments/assets/3265e592-6695-4a26-b166-3097d2bc9088)
 
 
 
